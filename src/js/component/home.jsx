@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./Navbar";
-import NavTabs from "./NavTabs";
+import Navbar from "./Navbar.jsx";
 //create your first component
 
 const products = [
